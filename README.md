@@ -1,2 +1,6 @@
 # sc-2018-siit
-Soft Computing - 2018 - Sotversko inženjerstvo i informacione tehnologije
+
+Repozitorijum kursa: **Soft Computing**  
+Smer: **Softversko inženjerstvo i informacione tehnologije**  
+Školska godina: **2018/2019**  
+
