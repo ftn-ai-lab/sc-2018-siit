@@ -11,7 +11,7 @@ Za potrebe kursa je razvijena virtuelna mašina sa sledećim sadržajem:
 ## Instalacija  
 
 1. Instalirati <a href="https://www.virtualbox.org/">Oracle VM VirtualBox (5.2.x)</a>.  
-2. Preuzeti **ftn-ai-lab-2018** virtuelnu mašinu sa sledećeg <a href="https://1drv.ms/u/s!AjgyxTq5Fn9diTlCzfoswE92eluJ">linka</a>.  
+2. Preuzeti **ftn-ai-lab-2018** virtuelnu mašinu sa sledećeg <a href="https://drive.google.com/file/d/137dj2XJ_MSv5dBZFclz_KaPCUrUrp4Un/view?usp=sharing">linka</a>.  
 3. Otvoriti **VirtualBox** i importovati virtuelnu mašinu:  
     * **File** meni -> **Import Appliance...**  
     * Odabrati preuzetu virtuelnu mašinu -> klik na **Next**  
