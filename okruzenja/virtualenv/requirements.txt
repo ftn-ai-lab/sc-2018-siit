@@ -1,7 +1,7 @@
 absl-py==0.5.0
 astor==0.7.1
 backcall==0.1.0
-bleach==3.0.0
+bleach==3.1.1
 cloudpickle==0.5.6
 cycler==0.10.0
 dask==0.19.2
